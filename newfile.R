@@ -1,3 +1,6 @@
 print("This file was created within R studio")
 print("and now it lives on github")
 print ("did not commit it")
+print("thus my first commit in a long time was able to be pushed to R")
+print("yea, that was it")
+print("and everything should be working now")
